@@ -1,0 +1,80 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+}
+
+#contenedor
+{
+    margin: auto;
+    margin-top: 40px;
+    width: 700px;
+}
+
+#banner
+{
+    height:120px;
+    width: 700px;
+    background-repeat: no-repeat;
+    float:left;
+    clear:both;
+}
+
+
+#formulario
+{
+    border-left: solid 1px #B7C0CA;
+    border-right: solid 1px #B7C0CA;
+    border-bottom: solid 1px #B7C0CA;
+    float:left;
+    clear:both;
+    width: 700px;
+}
+
+.boton
+{
+	background-image: url(../imagenes/aplicacion/fondo_boton.gif); 
+	background-repeat:no-repeat;
+	padding: 0;
+	display:block;
+	border: 0;
+	background-color: transparent;
+	width: 80px;
+	height: 20px; 
+	font-family: "Lucida Grande",Verdana,Lucida,Helvetica,Arial,sans-serif;
+	font-size: 12px;
+	color: #666;
+	margin: 0px 5px;
+}
+
+TD
+{
+	border: 0;
+	font-family: "Lucida Grande",Verdana,Lucida,Helvetica,Arial,sans-serif;
+	font-size: 12px;
+	color: #666;
+}
+
+.edit
+{
+	border:solid 1px #B7C0CA;
+	width:220px; 
+	height:19px;
+	font-size : 12px;
+	margin: 3px 0px 0px 10px ;
+	padding:0px;
+	float:none;
+	display:block;
+}
+
+H3
+{
+    color: #CC0000;
+	font-size : 12px;
+	padding:0px;
+	border-top: 1px solid #B7C0CA;
+    border-bottom: 1px solid #B7C0CA;
+    height: 25px;
+    font-weight:normal;
+}
